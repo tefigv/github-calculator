@@ -1,9 +1,5 @@
 
+„
+java:S1488U"bImmediately return this expression instead of assigning it to the temporary variable "identifier".(ÍëŒèùÿÿÿÿ8šÒ­«2
 V
-java:S1220""Move this file to a named package.J$a9c9f585-a084-4c0f-8c2a-248d426e0cec
-i
-java:S1172("(Remove this unused method parameter "n".(¥Í³ùüÿÿÿÿJ$59cc89ed-e530-4710-aa31-d715829cf606
-n
-java:S11724"-Remove this unused method parameter "number".(ç’óéøÿÿÿÿJ$255dbb13-1ef6-4b0f-8786-7630a70c7629
-d
-java:S1172@"(Remove this unused method parameter "n".(Õ€ˆ›J$48e18662-3420-43ff-83b0-2ed3827215a7
+java:S1220""Move this file to a named package.J$56efd938-27bb-41f4-8639-925bba5fba43
