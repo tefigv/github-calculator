@@ -18,6 +18,8 @@ jobs:
           architecture: 'x64'
       - name: clean
         run: mvn -ntp clean
+      - name: Build
+        run: mvn -ntp compile
       - name: Short tests
         run: mvn -ntp tests -Dtest='CalculatorTest'
       - name: Long Tests
