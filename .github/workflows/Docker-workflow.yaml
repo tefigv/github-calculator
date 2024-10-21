@@ -17,8 +17,8 @@ jobs:
           distribution: 'adopt'
           architecture: 'x64'
       - name: clean
-        run: nvm -ntp clean
+        run: mvn -ntp clean
       - name: Short tests
-        run: nvm -ntp tests -Dtest='CalculatorTest'
+        run: mvn -ntp tests -Dtest='CalculatorTest'
       - name: Long Tests
         run: nvm -ntp tests -Dtest='CalculatorTestThrough'
